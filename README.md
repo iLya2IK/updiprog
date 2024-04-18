@@ -84,3 +84,9 @@ I am using [CH340 USB to TTL converter](https://www.elektor.de/ch340-usb-to-ttl-
 ## UPDIlib and UPDIgui
 
 UPDIlib is a dynamically linking library and API for working with the UPDInterface. As an example of using the library, UPDIgui is presented - a program written in Lazarus for changing fuses, writing, reading and verifying the memory of AVR devices.
+
+
+# Copyrights and contributions
+
+* [Pure-C utility for programming AVR devices with UPDI interface using a standard TTL serial port](https://github.com/Polarisru/updiprog)
+* Copyright (c) 2023, Ilya Medvedkov
